@@ -1,6 +1,6 @@
-# Craftgen Desktop
+# Upstrima Workflows Desktop
 
-Craftgen Desktop is a desktop application built using [Tauri](https://tauri.app/). It allows users to interact with Craftgen's API and run workflows on their local machine.
+Upstrima Workflows Desktop is a desktop application built using [Tauri](https://tauri.app/). It allows users to interact with Upstrima Workflows's API and run workflows on their local machine.
 
 ## Features
 
